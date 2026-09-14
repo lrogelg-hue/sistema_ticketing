@@ -1,0 +1,14 @@
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\bin\Debug\net10.0\sistema_ticketing.exe
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\bin\Debug\net10.0\sistema_ticketing.deps.json
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\bin\Debug\net10.0\sistema_ticketing.runtimeconfig.json
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\bin\Debug\net10.0\sistema_ticketing.dll
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\bin\Debug\net10.0\sistema_ticketing.pdb
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\sistema_ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\sistema_ticketing.AssemblyInfoInputs.cache
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\sistema_ticketing.AssemblyInfo.cs
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\sistema_ticketing.csproj.CoreCompileInputs.cache
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\sistema_ticketing.dll
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\refint\sistema_ticketing.dll
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\sistema_ticketing.pdb
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\sistema_ticketing.genruntimeconfig.cache
+C:\Users\eg270\Documents\Progra2\sistema_ticketing\obj\Debug\net10.0\ref\sistema_ticketing.dll
